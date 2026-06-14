@@ -1,5 +1,5 @@
-# AYUD09-CHB
-Ayudantia 9 sobre CHB
+# AYUD10-SST
+Ayudantia 10 sobre SST
 
 01.- You can find the video [here]().<br>
 02.- The presentation [here](https://github.com/IEE3311-EDP-ERRI/AYUD10-SST/blob/main/AY10_SST.pdf)<br>
